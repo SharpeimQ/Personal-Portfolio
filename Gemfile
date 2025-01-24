@@ -1,9 +1,12 @@
 source "https://rubygems.org"
 
-gem "kramdown"
-gem "kramdown-parser-gfm"
-gem "rouge"
-gem "jekyll"
-gem "jekyll-paginate"
+gem "jekyll", "~> 3.10.0" # Use a compatible Jekyll version
+gem "jekyll-paginate"     # Pagination plugin
 gem "jekyll-paginate-content"
-gem "json"
+gem "kramdown"            # Markdown parser
+gem "kramdown-parser-gfm"
+gem "rouge"               # Syntax highlighter
+gem "webrick"             # Needed for Ruby >= 3.0
+gem "logger"              # Add logger explicitly
+gem "base64", "~> 0.2.0"
+
