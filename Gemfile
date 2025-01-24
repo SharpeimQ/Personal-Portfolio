@@ -9,4 +9,4 @@ gem "rouge"               # Syntax highlighter
 gem "webrick"             # Needed for Ruby >= 3.0
 gem "logger"              # Add logger explicitly
 gem "base64", "~> 0.2.0"
-
+gem "bigdecimal", "~> 3.1"
