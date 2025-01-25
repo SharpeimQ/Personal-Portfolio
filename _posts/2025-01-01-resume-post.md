@@ -2,15 +2,15 @@
 date: 2025-01-01 23:48:05
 layout: post
 title: Welcome to my Portfolio
-subtitle: 'Check out my Resume Below'
+subtitle: '<strong>Check out my Resume Below<strong>'
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
 image: >-
-  assets/img/posts/resume-post/liquid.png
+  assets/img/posts/resume-post/Sixth.png
 
 optimized_image: >-
-  assets/img/posts/resume-post/liquid.png
+  assets/img/posts/resume-post/Sixth.png
 
 category: blog
 tags:
