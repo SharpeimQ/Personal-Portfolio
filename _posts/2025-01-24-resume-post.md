@@ -7,10 +7,10 @@ description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
 image: >-
-  assets/img/posts/resume-post/Sixth.png
+  assets/img/posts/resume-post/Ninth.png
 
 optimized_image: >-
-  assets/img/posts/resume-post/Sixth.png
+  assets/img/posts/resume-post/Ninth.png
 
 category: blog
 tags:
