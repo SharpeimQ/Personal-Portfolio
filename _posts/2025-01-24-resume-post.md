@@ -1,8 +1,8 @@
 ---
-date: 2025-01-01 23:48:05
+date: 2025-01-24 23:48:05
 layout: post
 title: Welcome to my Portfolio
-subtitle: '<strong>Check out my Resume Below<strong>'
+subtitle: '<strong>Check out my Resume and Projects Below<strong>'
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
