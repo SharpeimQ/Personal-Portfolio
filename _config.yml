@@ -42,7 +42,7 @@ two_columns_layout: true
 
 
 # Advanced Settings
-baseurl: "/Personal-Portfolio-Jekflix/" # the subpath of your site, e.g. /blog
+baseurl: "/Personal-Portfolio/" # the subpath of your site, e.g. /blog
 url: "https://sharpeimq.github.io" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 language: "en"
