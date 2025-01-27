@@ -3,10 +3,14 @@ layout: main
 ---
 
 {% if site.paginate %}
-    {% assign posts = paginator.posts | where_exp:"post","post.is_generated != true" %}
+    {% assign all_posts = paginator.posts | where_exp:"post", "post.is_generated != true" %}
 {% else %}
-    {% assign posts = site.posts | where_exp:"post","post.is_generated != true" %}
+    {% assign all_posts = site.posts | where_exp:"post", "post.is_generated != true" %}
 {% endif %}
+
+<!-- Sort posts by 'pinned' first, then by their original order -->
+{% assign posts = all_posts | sort: "pinned" | reverse %}
+
 
 {% if site.show_hero and paginator == nil or paginator.page == 1 %}
     {% assign offset = 1 %}
