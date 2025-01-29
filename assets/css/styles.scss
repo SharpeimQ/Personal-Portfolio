@@ -6,15 +6,5 @@ $primaryDark: #141414;  // Primary dark color
 $accentDark: #ffffff;   // Accent color (light)
 $lightGray: #f2f2f2;    // Light gray
 $texts: #333333;        // Text color
-  
+
 @import "jekflix";
-  
-// Posts
-.resume-image {
-    display: block;
-    max-width: 800px;
-    width: 100%;      /* fills the screen’s width on smaller devices */
-    height: auto;     /* maintains aspect ratio */
-    margin: 0 auto;   /* center the image if parent container allows it */
-  }
-  

@@ -24,11 +24,15 @@ pinned: true
 ## About me
 Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
 
-## Check out my Resume
-<img 
-  src="{{ site.baseurl }}/assets/img/posts/resume-post/resume.jpg"
-  alt="My Resume"
-  class="resume-image"
-/>
+## Resume
+<div style="max-width: 800px; margin: 0 auto;">
+  <iframe
+    src="{{ site.baseurl }}/downloads/resume.pdf"
+    style="width: 100%; height: 600px; border: none;"
+  >
+    <!-- Fallback message for browsers that don't support iframes: -->
+    <p>Your browser does not support iframes.
+    <a href="{{ site.baseurl }}/downloads/resume.pdf">Download PDF</a></p>
+  </iframe>
+</div>
 
-<a href="{{ site.baseurl }}/downloads/resume.pdf">Download Resume</a>
