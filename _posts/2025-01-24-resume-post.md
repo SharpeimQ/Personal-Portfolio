@@ -34,5 +34,12 @@ Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur puru
     <p>Your browser does not support iframes.
     <a href="{{ site.baseurl }}/downloads/resume.pdf">Download PDF</a></p>
   </iframe>
+  <p>
+    <a 
+      href="{{ site.baseurl }}/downloads/resume.pdf"
+      style="color: #000; text-decoration: none;">
+      Download PDF
+    </a>
+  </p>
 </div>
 
