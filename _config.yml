@@ -41,7 +41,7 @@ two_columns_layout: true
 
 
 # Advanced Settings
-baseurl: "/Personal-Portfolio/" # the subpath of your site, e.g. /blog
+baseurl: "/Personal-Portfolio" # the subpath of your site, e.g. /blog
 url: "https://sharpeimq.github.io" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 language: "en"
@@ -59,6 +59,17 @@ collections:
 
 include:
   - assets
+  - downloads
+
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      sitemap: true
+  - scope:
+      path: "downloads"
+    values:
+      sitemap: true
 
 paginate_path: "/page/:num/"
 show_get_theme_btn: false

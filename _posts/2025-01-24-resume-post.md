@@ -26,4 +26,4 @@ Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur puru
 
 ## Check out my Resume!
 Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
-[📄 Download My Resume (PDF)](/assets/resume.pdf)
+<a href="{{ site.baseurl }}/downloads/resume.pdf">Download Resume</a>
