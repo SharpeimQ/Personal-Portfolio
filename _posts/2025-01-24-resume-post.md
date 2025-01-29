@@ -21,9 +21,14 @@ author: sharpeimq
 paginate: true
 pinned: true
 ---
-## ABOUT ME:
+## About me
 Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
 
-## Check out my Resume!
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+## Check out my Resume
+<img 
+  src="{{ site.baseurl }}/assets/img/posts/resume-post/resume.jpg"
+  alt="My Resume"
+  class="resume-image"
+/>
+
 <a href="{{ site.baseurl }}/downloads/resume.pdf">Download Resume</a>
