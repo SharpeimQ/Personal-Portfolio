@@ -1,8 +1,9 @@
 ---
 date: 2025-01-24 23:48:05
 layout: post
-title: Welcome to my Portfolio!
+title: Welcome to my Portfolio
 subtitle: '<strong>Check out my Resume<strong>'
+
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
@@ -25,3 +26,4 @@ Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur puru
 
 ## Check out my Resume!
 Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+[📄 Download My Resume (PDF)](/assets/resume.pdf)
