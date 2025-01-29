@@ -8,3 +8,29 @@ $lightGray: #f2f2f2;    // Light gray
 $texts: #333333;        // Text color
 
 @import "jekflix";
+
+// Resume Post Styles
+.download-link {
+    color: #000 !important;         
+    text-decoration: none !important;
+  }
+  
+  .download-link:hover {
+    color: #555 !important;
+  }
+
+  .about-container {
+    display: flex;
+    flex-direction: column; /* Stack items vertically */
+    gap: 1rem;             /* Optional spacing between items */
+    max-width: 800px; 
+    margin: 2rem auto;     /* Centers the container horizontally, with top/bottom spacing */
+  }
+  
+  .about-text p {
+    margin: 0;            /* Reset default paragraph margin if you want tighter spacing */
+  }
+  
+  
+  
+  
