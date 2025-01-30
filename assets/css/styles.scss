@@ -11,18 +11,78 @@ $texts: #333333;        // Text color
 
 // Home Page
 .hero {
-  /* If you see `100vh`, reduce it */
-  height: 90vh !important;    /* or 50vh, 40vh, etc. */
+  // Adjust vh to pref
+  height: 90vh !important;
 
-  /* Or if it’s using min-height */
   min-height: 60vh !important;
-
-  /* Also check padding */
   padding: 3rem 1rem !important; 
 }
 
+// Side-bar for all Posts
+.polaroid-container {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  padding: 0;
+  list-style: none;
+  // For smaller screens
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
 
-// Resume Post Styles
+.post-sidebar {
+  background-color: #000;
+  color: #fff;
+  padding: 3px;
+  text-align: center;
+  border-radius: 3px;
+  
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+
+  width: 100%;
+  max-width: 400px;
+}
+
+.post-sidebar img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.post-sidebar h3 {
+  color: #fff !important;
+  margin: 10px 0 0 0;
+}
+
+.polaroid-container h1 {
+  position: relative;
+  text-align: center;
+  font-weight: bold;
+  border-top: 3px solid #000;
+  border-bottom: 3px solid #000;
+  width: 100%;
+  margin: 20px auto;
+  padding: 10px 0;
+}
+
+.post-sidebar img {
+  width: 100%;
+  height: auto;
+  display: block;
+  filter: grayscale(100%);
+  transition: filter 0.5s ease-in-out;
+}
+
+.post-sidebar:hover img {
+  filter: grayscale(0%) !important;
+}
+
+// Resume Post
 .download-link {
     color: #000 !important;         
     text-decoration: none !important;
@@ -43,7 +103,3 @@ $texts: #333333;        // Text color
   .about-text p {
     margin: 0;            /* Reset default paragraph margin if you want tighter spacing */
   }
-  
-  
-  
-  
