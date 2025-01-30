@@ -25,11 +25,11 @@ pinned: true
 <div class="about-container">
   <div class="about-text">
     <p>
-      Hello stranger! My name is Joseph Wang, a self-taught web developer and a Junior CS undergraduate at NJIT. Most of my foundational web-development knowledge came from The Odin Project, but I went rogue and just started making my own projects. I've also been spending way too much time polishing my technical interview skills...
+      Hello stranger! My name is Joseph Qiu Wang (王秋雨), a self-taught web developer and a Junior CS undergraduate at NJIT. Most of my foundational web-development knowledge came from The Odin Project, but I went rogue and just started making my own projects. I've also been spending way too much time polishing my technical interview skills...
     </p>
   </div>
       <p>
-      Anyways, this website is pretty barebones! If you have any suggestions, please reach out to me and let me know. I am here to learn new skills and make fun projects. If you want more of my “stats,” they’re pretty unimpressive haha—please don’t look. But if you must, you can access my resume below.
+      Anyways, this website is pretty barebones! If you have any suggestions, please reach out to me and let me know. I am here to learn new skills, make fun projects, and land a job. If you want more of my “stats,” they’re pretty unimpressive haha—please don’t look... But if you must, you can access my resume below.
     </p>
 </div>
 
