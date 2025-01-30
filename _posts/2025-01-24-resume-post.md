@@ -47,7 +47,7 @@ pinned: true
     <a 
       href="{{ site.baseurl }}/downloads/resume.pdf"
       class="download-link">
-      Download PDF
+      Download Resume PDF
     </a>
   </p>
 </div>
