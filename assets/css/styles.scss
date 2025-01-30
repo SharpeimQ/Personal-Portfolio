@@ -9,6 +9,19 @@ $texts: #333333;        // Text color
 
 @import "jekflix";
 
+// Home Page
+.hero {
+  /* If you see `100vh`, reduce it */
+  height: 90vh !important;    /* or 50vh, 40vh, etc. */
+
+  /* Or if it’s using min-height */
+  min-height: 60vh !important;
+
+  /* Also check padding */
+  padding: 3rem 1rem !important; 
+}
+
+
 // Resume Post Styles
 .download-link {
     color: #000 !important;         

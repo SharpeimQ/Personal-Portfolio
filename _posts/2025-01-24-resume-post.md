@@ -3,16 +3,14 @@ date: 2025-01-24 23:48:05
 layout: post
 title: Welcome to my Portfolio
 subtitle: '<strong>Check out my Work<strong>'
-
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
 image: >-
   assets/img/posts/resume-post/Ninth.png
-
 optimized_image: >-
   assets/img/posts/resume-post/Ninth.png
-
+  
 category: blog
 tags:
   - resume
