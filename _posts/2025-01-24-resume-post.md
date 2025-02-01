@@ -16,7 +16,7 @@ category: blog
 tags:
   - resume
   - about
-author: "mranderson"
+author: "sharpeimq"
 paginate: true
 pinned: true
 ---

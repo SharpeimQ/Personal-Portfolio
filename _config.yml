@@ -41,8 +41,8 @@ two_columns_layout: true
 
 
 # Advanced Settings
-baseurl: "/Personal-Portfolio" # the subpath of your site, e.g. /blog
-url: "https://sharpeimq.github.io" # the base hostname & protocol for your site
+baseurl: "/Personal-Portfolio"
+url: "https://sharpeimq.github.io"
 google_analytics: "UA-XXXXXXXX-X"
 language: "en"
 categories_folder: category
@@ -58,8 +58,8 @@ collections:
     output: true
 
 authors:
-  mranderson:
-    display_name: "mranderson"
+  sharpeimq:
+    display_name: "sharpeimq"
     bio: "Bulletproof hacker passionate about leather clothes."
     photo: "/assets/img/user.jpg"
     github_username: "yourgithub"
