@@ -1,7 +1,6 @@
 ---
 ---
-
-$themeColor: #ff0a16;   // Main theme color
+$themeColor: #ff0a16;     // Main theme color
 $primaryDark: #141414;  // Primary dark color
 $accentDark: #ffffff;   // Accent color (light)
 $lightGray: #f2f2f2;    // Light gray
@@ -16,6 +15,10 @@ $texts: #333333;        // Text color
 
   min-height: 60vh !important;
   padding: 3rem 1rem !important; 
+}
+
+#icon-read {
+  color: #fff !important;
 }
 
 // Side-bar for all Posts
