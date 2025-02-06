@@ -9,13 +9,32 @@ $texts: #333333;        // Text color
 @import "jekflix";
 
 // Home Page
+@keyframes hueShift {
+  0% { filter: hue-rotate(0deg); }
+  45% { filter: hue-rotate(-100deg); }
+  50% { filter: hue-rotate(-100deg); }
+  55% { filter: hue-rotate(-100deg); }
+  100% { filter: hue-rotate(0deg); }    
+}
+
 .hero {
-  // Adjust vh to pref
   height: 90vh !important;
+  min-height: 60vh !important;
+  padding: 3rem 1rem !important;
+  transition: filter 10s ease-in-out;
+  animation: hueShift 30s infinite ease-in-out;
+}
+
+
+.hero {
+  // Adjust vh for pref
+  height: 92vh !important;
 
   min-height: 60vh !important;
-  padding: 3rem 1rem !important; 
+  padding: 3rem 1rem !important;
+  animation: hueShift 30s infinite ease-in-out;
 }
+
 
 // Read Icon Button
 #icon-read {
