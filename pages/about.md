@@ -1,13 +1,13 @@
 ---
 layout: page
 menu: false
-date: '2020-02-27 01:53:59'
+date: '2025-02-05 01:53:59'
 title: About
-description: Some description.
+description: Joseph Wang About Me
 permalink: /about/
 ---
 
-<img class="img-rounded" src="{{ site.baseurl }}/assets/img/uploads/profile.png" alt="SharpeimQ" width="200">
+<img class="img-rounded about-img" src="{{ site.baseurl }}/assets/img/uploads/profile4.jpg" alt="SharpeimQ" width="200">
 
 # About
 
