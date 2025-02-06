@@ -27,7 +27,7 @@ formspree_form_id: formspree_form_id
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
+github_username: SharpeimQ
 instagram_username: instagram_username
 linkedin_username: linkedin_username
 
@@ -59,9 +59,9 @@ collections:
 authors:
   sharpeimq:
     display_name: "sharpeimq"
-    bio: "Yippee."
+    bio: "Hey! I'm Joseph Wang. Nice to meet'cha!."
     photo: "/assets/img/user.jpg"
-    github_username: "yourgithub"
+    github_username: "SharpeimQ"
     twitter_username: "yourtwitter"
     linkedin_username: "yourlinkedin"
 
