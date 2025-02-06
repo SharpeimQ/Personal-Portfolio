@@ -22,10 +22,10 @@ pinned: true
 ### About Me
 <div class="resume-post-container">
   <p>
-    Hello stranger! My name is Joseph Q. Wang (王秋雨), a self-taught web developer and a Junior CS undergraduate at NJIT. I learned basic web development from The Odin Project in 2023, but burnt-out and took a step back to focus on my academics and other interests.
+    Hello stranger! My name is Joseph Q. Wang (王秋雨), a self-taught web developer and a Junior CS undergraduate at NJIT. I learned basic web development from The Odin Project in 2023, but burnt out and took a step back to focus on my academics and other interests.
   </p>
   <p>
-    Now, after some time off and developing a solid routine <em>(so very true)</em>, I decided to rekindle my web development journey in 2025. I mapped out a few fun projects I want to build based around some technologies I want to learn, including this portfolio website built with Jekyll. I have some exciting plans, and so far, it's been nice getting back into it!
+    Now, after some time off and developing a solid routine (so very true), I decided to rekindle my web development journey in 2025. I mapped out a few fun projects I want to build based around some technologies I want to learn, including this portfolio website built with Jekyll. I have some exciting plans, and so far, it's been nice getting back into it!
   </p>
   <p>
     I plan to learn by doing, and whenever I complete a project, I'll document it on this portfolio site.
@@ -39,7 +39,7 @@ pinned: true
   </p>
 
   <p>
-    I am here to learn new skills, make fun projects, and land ANY job (I beg). If you want more of my “stats,” they’re pretty unimpressive haha—please don’t look... But if you must, you can access my resume below.
+    I am here to learn new skills, work on or contribute to cool projects, and ultimately find a job that allows me the flexibility to do both. If you want more of my “stats,” you can access my resume below. I know my stats are still a bit a work in progress—but hey, I’m working on it!
   </p>
 </div>
 
