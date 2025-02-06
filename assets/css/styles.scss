@@ -10,18 +10,17 @@ $texts: #333333;        // Text color
 
 // Home Page
 @keyframes hueShift {
-  0% { filter: hue-rotate(0deg); }
-  45% { filter: hue-rotate(-100deg); }
-  50% { filter: hue-rotate(-100deg); }
-  55% { filter: hue-rotate(-100deg); }
-  100% { filter: hue-rotate(0deg); }    
+  0% { filter: hue-rotate(-40deg); }
+  30% { filter: hue-rotate(-90deg); }
+  50% { filter: hue-rotate(-140deg); }
+  70% { filter: hue-rotate(-90deg); }
+  100% { filter: hue-rotate(-40deg); }    
 }
 
 .hero {
   height: 90vh !important;
   min-height: 60vh !important;
   padding: 3rem 1rem !important;
-  transition: filter 10s ease-in-out;
   animation: hueShift 30s infinite ease-in-out;
 }
 
