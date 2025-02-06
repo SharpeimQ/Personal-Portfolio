@@ -4,7 +4,7 @@ photo: "https://sharpeimq.github.io/Personal-Portfolio/assets/img/uploads/profil
 name: sharpeimq
 display_name: sharpeimq
 position: The One
-bio: Yippee
+bio: Hey! I'm Joseph Wang. Nice to meet'cha!
 github_username: github_username
 facebook_username: facebook_username
 twitter_username: twitter_username
