@@ -112,3 +112,12 @@ $texts: #333333;        // Text color
   .about-text p {
     margin: 0;            /* Reset default paragraph margin if you want tighter spacing */
   }
+
+  // Author Section
+  .img-rounded {
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 4px solid #000;
+  }

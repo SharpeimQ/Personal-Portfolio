@@ -14,4 +14,3 @@ medium_username: medium_username
 
 permalink: /authors/sharpeimq/
 ---
-
