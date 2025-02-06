@@ -8,7 +8,7 @@ bio: Hey! I'm Joseph Wang. Nice to meet'cha!
 github_username: SharpeimQ
 # facebook_username: facebook_username
 twitter_username: twitter_username
-instagram_username: instagram_username
+instagram_username: shar.peimq
 linkedin_username: joseph-wang-30b02b261
 # medium_username: medium_username
 
