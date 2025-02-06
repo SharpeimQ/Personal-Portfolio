@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: "https://sharpeimq.github.io/Personal-Portfolio/assets/img/uploads/profile1.jpg"
+photo: "https://sharpeimq.github.io/Personal-Portfolio/assets/img/uploads/profile1.png"
 name: sharpeimq
 display_name: sharpeimq
 position: The One
