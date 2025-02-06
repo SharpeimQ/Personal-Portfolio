@@ -22,7 +22,7 @@ permalink: /about/
   </p>
 </div>
 
-# Reach out
+# Reach Out
 <div class="resume-post-container">
   <p>
     Anyways, this website is pretty barebones! If you have any suggestions or want to work with me, feel free to reach out. You can do so by sending an email to <a href="mailto:SharpHaiyan@gmail.com">SharpHaiyan@gmail.com</a> or using the <a href="{{ site.url }}{{ site.baseurl }}/contact">Contact Form</a> on this website.
