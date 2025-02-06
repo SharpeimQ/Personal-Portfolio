@@ -5,8 +5,7 @@ layout: post
 title: Welcome to my Portfolio
 subtitle: '<strong>Check out my Work<strong>'
 description: >-
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua.
+  A resume post with an ABOUT ME segment by Joseph Wang
 image: >-
   assets/img/posts/resume-post/Ninth.png
 optimized_image: >-
@@ -21,15 +20,27 @@ paginate: true
 pinned: true
 ---
 ### About Me
-<div class="about-container">
-  <div class="about-text">
-    <p>
-      Hello stranger! My name is Joseph Qiu Wang (王秋雨), a self-taught web developer and a Junior CS undergraduate at NJIT. Most of my foundational web-development knowledge came from The Odin Project, but I went rogue and just started making my own projects. I've also been spending way too much time polishing my technical interview skills...
-    </p>
-  </div>
-      <p>
-      Anyways, this website is pretty barebones! If you have any suggestions, please reach out to me and let me know. I am here to learn new skills, make fun projects, and land a job. If you want more of my “stats,” they’re pretty unimpressive haha—please don’t look... But if you must, you can access my resume below.
-    </p>
+<div class="resume-post-container">
+  <p>
+    Hello stranger! My name is Joseph Q. Wang (王秋雨), a self-taught web developer and a Junior CS undergraduate at NJIT. I learned basic web development from The Odin Project in 2023, but burnt-out and took a step back to focus on my academics and other interests.
+  </p>
+  <p>
+    Now, after some time off and developing a solid routine <em>(so very true)</em>, I decided to rekindle my web development journey in 2025. I mapped out a few fun projects I want to build based around some technologies I want to learn, including this portfolio website built with Jekyll. I have some exciting plans, and so far, it's been nice getting back into it!
+  </p>
+  <p>
+    I plan to learn by doing, and whenever I complete a project, I'll document it on this portfolio site.
+  </p>
+</div>
+
+### Reach out
+<div class="resume-post-container">
+  <p>
+    Anyways, this website is pretty barebones! If you have any suggestions or want to work with me, feel free to reach out. You can do so by sending an email to <a href="mailto:SharpHaiyan@gmail.com">SharpHaiyan@gmail.com</a> or using the <a href="{{ site.url }}{{ site.baseurl }}/contact">Contact Form</a> on this website.
+  </p>
+
+  <p>
+    I am here to learn new skills, make fun projects, and land ANY job (I beg). If you want more of my “stats,” they’re pretty unimpressive haha—please don’t look... But if you must, you can access my resume below.
+  </p>
 </div>
 
 ### Resume
