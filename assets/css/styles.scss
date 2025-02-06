@@ -9,29 +9,13 @@ $texts: #333333;        // Text color
 @import "jekflix";
 
 // Home Page
-@keyframes hueShift {
-  0% { filter: hue-rotate(-40deg); }
-  30% { filter: hue-rotate(-90deg); }
-  50% { filter: hue-rotate(-140deg); }
-  70% { filter: hue-rotate(-90deg); }
-  100% { filter: hue-rotate(-40deg); }    
-}
-
-.hero {
-  height: 90vh !important;
-  min-height: 60vh !important;
-  padding: 3rem 1rem !important;
-  animation: hueShift 30s infinite ease-in-out;
-}
-
-
 .hero {
   // Adjust vh for pref
   height: 92vh !important;
 
   min-height: 60vh !important;
   padding: 3rem 1rem !important;
-  animation: hueShift 30s infinite ease-in-out;
+  animation: hueShift 20s infinite ease-in-out;
 }
 
 
