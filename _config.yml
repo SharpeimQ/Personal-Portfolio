@@ -29,7 +29,7 @@ formspree_form_id: formspree_form_id
 # Remove the item if you don't need it
 github_username: SharpeimQ
 instagram_username: instagram_username
-linkedin_username: linkedin_username
+linkedin_username: joseph-wang-30b02b261
 
 
 # Posts Settings
@@ -63,7 +63,7 @@ authors:
     photo: "/assets/img/user.jpg"
     github_username: "SharpeimQ"
     twitter_username: "yourtwitter"
-    linkedin_username: "yourlinkedin"
+    linkedin_username: "joseph-wang-30b02b261"
 
 include:
   - assets

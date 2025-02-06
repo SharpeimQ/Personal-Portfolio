@@ -9,7 +9,7 @@ github_username: SharpeimQ
 # facebook_username: facebook_username
 twitter_username: twitter_username
 instagram_username: instagram_username
-linkedin_username: linkedin_username
+linkedin_username: joseph-wang-30b02b261
 # medium_username: medium_username
 
 permalink: /authors/sharpeimq/
