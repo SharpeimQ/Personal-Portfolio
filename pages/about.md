@@ -15,7 +15,7 @@ permalink: /about/
     Hello stranger! My name is Joseph Q. Wang (王秋雨), a self-taught web developer and a Junior CS undergraduate at NJIT. I learned basic web development from The Odin Project in 2023, but burnt out and took a step back to focus on my academics and other interests.
   </p>
   <p>
-    Now, after some time off and developing a solid routine (so very true), I decided to rekindle my web development journey in 2025. I mapped out a few fun projects I want to build based around some technologies I want to learn, including this portfolio website built with Jekyll (Jekflix template). I have some exciting plans, and so far, it's been nice getting back into it!
+    Now, after some time off and developing a solid routine (so true), I decided to rekindle my web development journey in 2025. I mapped out a few fun projects I want to build based around some technologies I want to learn, including this portfolio website built with Jekyll (Jekflix template). I have some exciting plans, and so far, it's been nice getting back into it!
   </p>
   <p>
     I plan to learn by doing, and whenever I complete a project, I'll document it on this portfolio site.

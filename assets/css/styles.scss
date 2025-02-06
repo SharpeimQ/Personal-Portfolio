@@ -84,12 +84,11 @@ $texts: #333333;        // Text color
   width: 100%;
   height: auto;
   display: block;
-  filter: grayscale(100%);
   transition: filter 0.5s ease-in-out;
 }
 
 .post-sidebar:hover img {
-  filter: grayscale(0%) !important;
+  filter: saturate(1.8) !important;
 }
 
 // Resume Post
