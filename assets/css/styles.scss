@@ -22,6 +22,11 @@ $texts: #333333;        // Text color
   color: #fff !important;
 }
 
+// Post Image Filter
+.cover img {
+  filter: hue-rotate(270deg) saturate(150%) contrast(120%);
+}
+
 // Side-bar for all Posts
 .polaroid-container {
   display: flex;
