@@ -29,6 +29,6 @@ permalink: /about/
   </p>
 
   <p>
-    I am here to learn new skills, work on or contribute to cool projects, and ultimately find a job that allows me the flexibility to do both. If you want more of my “stats,” you can access my resume below. I know my stats are still a bit a work in progress—but hey, I’m working on it!
+    I am here to learn new skills, work on or contribute to cool projects, and ultimately find a job that allows me the flexibility to do both. If you want more of my “stats,” you can access my resume below. I know my stats are still a bit generic—but hey, I’m working on it!
   </p>
 </div>
