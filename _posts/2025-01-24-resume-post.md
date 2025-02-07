@@ -3,7 +3,7 @@ date: 2025-01-24 23:48:05
 
 layout: post
 title: Welcome to my Portfolio
-subtitle: '<strong>Check out my Work<strong>'
+subtitle: '<strong>Joseph Q. Wang<strong>'
 description: >-
   Joseph Wang's resume post with an ABOUT ME and REACH OUT sections
 image: >-
