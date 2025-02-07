@@ -5,4 +5,5 @@ sharpeimq:
   github_username: "yourgithub"
   twitter_username: "yourtwitter"
   linkedin_username: "yourlinkedin"
-  permalink: /authors/sharpeimq/
+  # permalink: /authors/sharpeimq/
+  permalink: "{{ site.baseurl }}/about"

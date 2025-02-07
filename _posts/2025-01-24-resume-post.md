@@ -5,7 +5,7 @@ layout: post
 title: Welcome to my Portfolio
 subtitle: '<strong>Check out my Work<strong>'
 description: >-
-  A resume post with an ABOUT ME segment by Joseph Wang
+  Joseph Wang's resume post with an ABOUT ME and REACH OUT sections
 image: >-
   assets/img/posts/resume-post/Ninth.png
 optimized_image: >-

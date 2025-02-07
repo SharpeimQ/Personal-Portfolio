@@ -12,5 +12,6 @@ instagram_username: shar.peimq
 linkedin_username: joseph-wang-30b02b261
 # medium_username: medium_username
 
-permalink: /authors/sharpeimq/
+# permalink: /authors/sharpeimq/
+permalink: /Personal-Portfolio/about
 ---
