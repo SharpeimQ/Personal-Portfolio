@@ -131,3 +131,24 @@ $texts: #333333;        // Text color
   width: 300px !important;
   height: 300px !important;
 }
+
+// Virella Post
+.checklist {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  padding: 10px 0;
+}
+
+.checklist span {
+  background: #f4f4f4;
+  padding: 8px 16px;
+  border-radius: 6px;
+  font-size: 14px;
+  font-weight: 600;
+  display: inline-block;
+}
+
+.completed { background: #28a745; color: #000; }
+.in-progress { background: #ffc107; color: #000; }
+.planned { background: #007bff; color: #000; } 
