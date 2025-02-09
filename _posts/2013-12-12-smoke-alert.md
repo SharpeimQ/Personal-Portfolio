@@ -9,3 +9,5 @@ subtitle:
 tags:
 author: sharpeimq
 ---
+---
+<img src="{{ site.baseurl }}/assets/img/roadmap.png" alt="Project Roadmap" class="roadmap-img">

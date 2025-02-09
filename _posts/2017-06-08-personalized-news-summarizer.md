@@ -10,3 +10,5 @@ optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380
 tags:
 author: SharpeimQ
 ---
+---
+<img src="{{ site.baseurl }}/assets/img/roadmap.png" alt="Project Roadmap" class="roadmap-img">
