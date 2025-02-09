@@ -143,7 +143,7 @@ $texts: #333333;        // Text color
 .checklist span {
   background: #f4f4f4;
   padding: 8px 16px;
-  border-radius: 6px;
+  border-radius: 3px;
   font-size: 14px;
   font-weight: 600;
   display: inline-block;
@@ -152,3 +152,11 @@ $texts: #333333;        // Text color
 .completed { background: #28a745; color: #000; }
 .in-progress { background: #ffc107; color: #000; }
 .planned { background: #007bff; color: #000; } 
+
+
+// Roadmap
+.roadmap-img {
+  width: 100%;
+  max-width: 800px;
+  display: block;
+}
