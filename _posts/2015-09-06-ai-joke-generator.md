@@ -11,4 +11,9 @@ tags:
 author: SharpeimQ
 ---
 ---
+## The Goal of this Project
+
+## The Technologies I want to Learn
+
+## What's Next
 <img src="{{ site.baseurl }}/assets/img/roadmap.png" alt="Project Roadmap" class="roadmap-img">
