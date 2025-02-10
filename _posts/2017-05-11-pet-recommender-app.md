@@ -1,7 +1,7 @@
 ---
 date: 2017-05-11 12:00:00
 layout: post
-title: Pet Selector
+title: Pet Recommender App
 subtitle:
 description:
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559824822/theme15_oqsl4z.jpg
