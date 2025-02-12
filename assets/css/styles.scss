@@ -154,13 +154,6 @@ $texts: #333333;        // Text color
 .planned { background: #007bff; color: #000; } 
 
 
-// Roadmap
-.roadmap-img {
-  width: 100%;
-  max-width: 800px;
-  display: block;
-}
-
 // Reddit Scrapper Post
 .grid-container {
   margin-top: 50px;
@@ -210,4 +203,11 @@ $texts: #333333;        // Text color
 
 .next-project-link:hover {
   background: #333;
+}
+
+// Roadmap
+.roadmap-img {
+  width: 100%;
+  max-width: 800px;
+  display: block;
 }
