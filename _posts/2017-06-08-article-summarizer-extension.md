@@ -15,4 +15,10 @@ author: SharpeimQ
 
 ## The Technologies I want to Learn
 
+## What's Next?  
+<a href="{{ site.baseurl }}/article-summarizer-extension/" class="next-project-link">
+  Article Summarizer Google Extension! →
+</a>
 
+## Project Roadmap
+<img src="{{ site.baseurl }}/assets/img/roadmap.png" alt="Project Roadmap" class="roadmap-img">

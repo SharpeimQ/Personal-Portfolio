@@ -48,6 +48,5 @@ This project will introduce me to **Chrome extension development, hosting & depl
   Article Summarizer Google Extension! →
 </a>
 
----
-# Project Roadmap
+## Project Roadmap
 <img src="{{ site.baseurl }}/assets/img/roadmap.png" alt="Project Roadmap" class="roadmap-img">

@@ -62,3 +62,7 @@ pinned: true
   </p>
 </div>
 
+--- 
+## What's Next?  
+<a href="{{ site.baseurl }}/reddit-joke-scrapper/" class="next-project-link">
+  Reddit Joke Scraper Google Extension! →
