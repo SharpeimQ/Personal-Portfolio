@@ -21,11 +21,6 @@ $texts: #333333;        // Text color
   color: #fff !important;
 }
 
-// Post Image Filter
-// .cover img {
-//   filter: saturate(150%) contrast(120%);
-// }
-
 // Side-bar for all Posts
 .polaroid-container {
   display: flex;
@@ -87,7 +82,7 @@ $texts: #333333;        // Text color
 }
 
 .post-sidebar:hover img {
-  filter: saturate(1.8) !important;
+  animation: hueShift 5s ease-in-out infinite;
 }
 
 // Resume Post
