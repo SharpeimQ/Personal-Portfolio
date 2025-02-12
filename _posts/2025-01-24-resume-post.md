@@ -6,10 +6,9 @@ title: Welcome to my Portfolio
 subtitle: '<strong>Joseph Q. Wang<strong>'
 description: >-
   Joseph Wang's resume post with an ABOUT ME and REACH OUT sections
-image: >-
-  assets/img/posts/resume-post/Ninth.png
-optimized_image: >-
-  assets/img/posts/resume-post/Ninth.png
+
+image: "/Personal-Portfolio/assets/img/posts/resume-post/Ninth.png"
+optimized_image: "/Personal-Portfolio/assets/img/posts/resume-post/Ninth.png"
 
 category: blog
 tags:
