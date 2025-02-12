@@ -160,3 +160,54 @@ $texts: #333333;        // Text color
   max-width: 800px;
   display: block;
 }
+
+// Reddit Scrapper Post
+.grid-container {
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
+
+.tech-grid {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  gap: 10px;
+  max-width: 600px;
+  margin: auto;
+  padding: 10px;
+  border-radius: 8px;
+  background: #f9f9f9;
+}
+
+.tech-category {
+  background: #2e05a0;
+  color: white;
+  font-weight: bold;
+  padding: 10px;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.tech-items {
+  background: #fff;
+  padding: 10px;
+  border-radius: 5px;
+  text-align: left;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+
+// Next Project Link
+.next-project-link {
+  display: inline-block;
+  background: #2e05a0;
+  color: white !important;
+  padding: 10px 15px;
+  border-radius: 5px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: background 0.3s ease-in-out;
+}
+
+.next-project-link:hover {
+  background: #333;
+}
