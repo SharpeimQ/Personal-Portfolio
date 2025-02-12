@@ -1,5 +1,5 @@
 ---
-date: 2017-06-08 12:00:00
+date: 2099-01-01 12:00:00
 layout: post
 title: Article Summarizer Extension
 subtitle:
@@ -8,7 +8,7 @@ category:
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559824306/theme13_dshbqx.jpg
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559824306/theme13_dshbqx.jpg
 tags:
-author: SharpeimQ
+author: sharpeimq
 ---
 ---
 ## The Goal of this Project
