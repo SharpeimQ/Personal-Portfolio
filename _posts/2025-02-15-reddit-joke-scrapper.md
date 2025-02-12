@@ -43,10 +43,10 @@ This project will introduce me to **Chrome extension development, hosting & depl
     </div>
 </div>
 
+## Project Roadmap
+<img src="{{ site.baseurl }}/assets/img/roadmap.png" alt="Project Roadmap" class="roadmap-img">
+
 ## What's Next?  
 <a href="{{ site.baseurl }}/article-summarizer/" class="next-project-link">
   Article Summarizer Google Extension! →
 </a>
-
-## Project Roadmap
-<img src="{{ site.baseurl }}/assets/img/roadmap.png" alt="Project Roadmap" class="roadmap-img">
