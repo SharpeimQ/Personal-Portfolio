@@ -1,7 +1,7 @@
 ---
 date: 2099-01-01 12:00:00
 layout: post
-title: Article Summarizer Extension
+title: Article Summarizer
 subtitle:
 description:
 category:

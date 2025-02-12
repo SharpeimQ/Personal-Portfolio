@@ -1,5 +1,5 @@
 ---
-date: 2015-09-06 12:00:00
+date: 2099-01-03 12:00:00
 layout: post
 title: AI Joke Generator
 subtitle:
@@ -8,7 +8,7 @@ image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559825288/theme17_nln
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559825288/theme17_nlndhx.jpg
 category: 
 tags:
-author: SharpeimQ
+author: sharpeimq
 ---
 ---
 ## The Goal of this Project
