@@ -44,7 +44,7 @@ This project will introduce me to **Chrome extension development, hosting & depl
 </div>
 
 ## What's Next?  
-<a href="{{ site.baseurl }}/article-summarizer-extension/" class="next-project-link">
+<a href="{{ site.baseurl }}/article-summarizer/" class="next-project-link">
   Article Summarizer Google Extension! →
 </a>
 
