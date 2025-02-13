@@ -11,6 +11,14 @@ tags:
 author: sharpeimq
 ---
 ---
+## Article Summarizer - Project Overview 
+
+## Project Development Stages
+<strong>N/A</strong> 
+
+## The Technologies Used in This Project
+<strong>N/A</strong> 
+
 ## Project Roadmap
 <img src="{{ site.baseurl }}/assets/img/roadmap.png" alt="Project Roadmap" class="roadmap-img">
 
