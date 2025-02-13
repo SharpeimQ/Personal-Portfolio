@@ -36,7 +36,7 @@ $texts: #333333;        // Text color
 
 .post-item {
   animation: hopBounce 1s ease-out;
-  animation-iteration-count: 3;
+  animation-iteration-count: 2;
 }
 
 .post-item:nth-child(1) { animation-delay: 0.2s; }
