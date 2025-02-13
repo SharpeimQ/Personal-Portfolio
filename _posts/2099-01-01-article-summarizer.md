@@ -11,14 +11,10 @@ tags:
 author: sharpeimq
 ---
 ---
-## The Goal of this Project
-
-## The Technologies I want to Learn
-
-## What's Next?  
-<a href="{{ site.baseurl }}/article-summarizer-extension/" class="next-project-link">
-  Article Summarizer Google Extension! →
-</a>
-
 ## Project Roadmap
 <img src="{{ site.baseurl }}/assets/img/roadmap.png" alt="Project Roadmap" class="roadmap-img">
+
+## What's Next?  
+<a href="{{ site.baseurl }}/article-summarizer/" class="next-project-link">
+  Article Summarizer Google Extension! →
+</a>
