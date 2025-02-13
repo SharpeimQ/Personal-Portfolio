@@ -16,37 +16,31 @@ $texts: #333333;        // Text color
   animation: hueShift 20s infinite ease-in-out;
 }
 
-@keyframes hopBounce {
+@keyframes saturationPulse {
   0% {
-      transform: translateY(0);
+      filter: saturate(1);
   }
-  40% {
-      transform: translateY(-30px);
-  }
-  60% {
-      transform: translateY(15px);
-  }
-  80% {
-      transform: translateY(-10px);
+  50% {
+      filter: saturate(1.5) contrast(1.2);
   }
   100% {
-      transform: translateY(0);
+      filter: saturate(1);
   }
 }
 
 .post-item {
-  animation: hopBounce 1s ease-out;
-  animation-iteration-count: 2;
+  animation: saturationPulse 1s infinite;
 }
 
-.post-item:nth-child(1) { animation-delay: 0.2s; }
-.post-item:nth-child(2) { animation-delay: 0.4s; }
-.post-item:nth-child(3) { animation-delay: 0.6s; }
-.post-item:nth-child(4) { animation-delay: 0.8s; }
-.post-item:nth-child(5) { animation-delay: 1s; }
-.post-item:nth-child(6) { animation-delay: 1.2s; }
-.post-item:nth-child(7) { animation-delay: 1.4s; }
-.post-item:nth-child(8) { animation-delay: 1.6s; }
+
+.post-item:nth-child(1) { animation-delay: 1s; }
+.post-item:nth-child(2) { animation-delay: 2s; }
+.post-item:nth-child(3) { animation-delay: 3s; }
+.post-item:nth-child(4) { animation-delay: 4s; }
+.post-item:nth-child(5) { animation-delay: 5s; }
+.post-item:nth-child(6) { animation-delay: 6s; }
+.post-item:nth-child(7) { animation-delay: 7s; }
+.post-item:nth-child(8) { animation-delay: 8s; }
 
 
 // Read Icon Button
