@@ -16,20 +16,20 @@ $texts: #333333;        // Text color
   animation: hueShift 20s infinite ease-in-out;
 }
 
-@keyframes saturationPulse {
+@keyframes glowFlicker {
   0% {
-      filter: saturate(1);
+      filter: saturate(0.5) drop-shadow(0 0 5px rgba(255, 255, 255, 0.3));
   }
   50% {
-      filter: saturate(1.5) contrast(1.2);
+      filter: saturate(2) drop-shadow(0 0 10px rgba(255, 255, 255, 0.9));
   }
   100% {
-      filter: saturate(1);
+      filter: saturate(0.5) drop-shadow(0 0 5px rgba(255, 255, 255, 0.3));
   }
 }
 
 .post-item {
-  animation: saturationPulse 1s infinite;
+  animation: glowFlicker 1s ease-in-out;
 }
 
 
