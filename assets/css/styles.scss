@@ -20,22 +20,22 @@ $texts: #333333;        // Text color
   0% {
       filter: saturate(0.5) drop-shadow(0 0 4px rgba(64, 224, 208, 0.7));
   }
-  25% {
+  50% {
       filter: saturate(2) drop-shadow(0 0 20px rgba(23, 4, 74, 0.9));
   }
-  50% {
+  100% {
       filter: saturate(0.5) drop-shadow(0 0 4px rgba(64, 224, 208, 0.7));
   }
-  75% {
-      filter: saturate(2) drop-shadow(0 0 20px rgba(20, 185, 28, 0.7));
-  }
-  100% {
-      filter: saturate(0.5) drop-shadow(0 0 4px rgba(64, 224, 208, 0.7)); 
-  }
+  // 75% {
+  //     filter: saturate(2) drop-shadow(0 0 20px rgba(20, 185, 28, 0.7));
+  // }
+  // 100% {
+  //     filter: saturate(0.5) drop-shadow(0 0 4px rgba(64, 224, 208, 0.7)); 
+  // }
 }
 
 .post-item {
-  animation: glowFlicker 8s ease-in-out;
+  animation: glowFlicker 4s ease-in-out;
   animation-iteration-count: infinite;
 }
 
