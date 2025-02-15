@@ -16,39 +16,10 @@ $texts: #333333;        // Text color
   animation: hueShift 15s infinite ease-in-out;
 }
 
-@keyframes glowFlicker {
-  0% {
-      filter: saturate(0.5) drop-shadow(0 0 4px rgba(64, 224, 208, 0.7));
-  }
-  50% {
-      filter: saturate(2) drop-shadow(0 0 20px rgba(23, 4, 74, 0.9));
-  }
-  100% {
-      filter: saturate(0.5) drop-shadow(0 0 4px rgba(64, 224, 208, 0.7));
-  }
-  // 75% {
-  //     filter: saturate(2) drop-shadow(0 0 20px rgba(20, 185, 28, 0.7));
-  // }
-  // 100% {
-  //     filter: saturate(0.5) drop-shadow(0 0 4px rgba(64, 224, 208, 0.7)); 
-  // }
-}
-
 .post-item {
   animation: glowFlicker 4s ease-in-out;
   animation-iteration-count: infinite;
 }
-
-
-// .post-item:nth-child(1) { animation-delay: 0s; }
-// .post-item:nth-child(2) { animation-delay: 2s; }
-// .post-item:nth-child(3) { animation-delay: 4s; }
-// .post-item:nth-child(4) { animation-delay: 6s; }
-// .post-item:nth-child(5) { animation-delay: 8s; }
-// .post-item:nth-child(6) { animation-delay: 10s; }
-// .post-item:nth-child(7) { animation-delay: 7s; }
-// .post-item:nth-child(8) { animation-delay: 8s; }
-
 
 // Read Icon Button
 #icon-read {
