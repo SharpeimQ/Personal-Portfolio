@@ -12,6 +12,12 @@ author: sharpeimq
 ---
 ---
 ## Article Summarizer - Project Overview 
+An AI powered Chrome extension designed to help users quickly extract the key points of any article, blog post, or paper. This tool ensures streamlines your workflow by retrieving essential information without reading through lengthy content.
+
+### Key Features
+1. <strong>Smart AI-Summarization</strong> - Leverages OpenAI's ChatGPT for advanced summarization and contextual understanding
+2. <strong>Customizable Summary Length</strong> - Adjust the level of detail based on user needs
+3. <strong>Adaptive Summary Tone</strong> - Choose a tone that best fits your reading preference (e.g., formal, casual, or technical)
 
 ## Project Development Stages
 <strong>N/A - Beyond Current Knowledge Scope</strong> 
