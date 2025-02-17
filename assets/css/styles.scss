@@ -10,21 +10,21 @@ $texts: #333333;        // Text color
 
 // Home Page
 .hero {
-  height: 92vh !important;
+  height: 90vh !important;
   min-height: 60vh !important;
   padding: 3rem 1rem !important;
-  animation: hueShift 20s infinite ease-in-out;
+  animation: hueShift 15s infinite ease-in-out;
+}
+
+.post-item {
+  animation: glowFlicker 4s ease-in-out;
+  animation-iteration-count: infinite;
 }
 
 // Read Icon Button
 #icon-read {
   color: #fff !important;
 }
-
-// Post Image Filter
-// .cover img {
-//   filter: saturate(150%) contrast(120%);
-// }
 
 // Side-bar for all Posts
 .polaroid-container {
@@ -87,7 +87,7 @@ $texts: #333333;        // Text color
 }
 
 .post-sidebar:hover img {
-  filter: saturate(1.8) !important;
+  animation: hueShift 5s ease-in-out infinite;
 }
 
 // Resume Post
@@ -195,6 +195,7 @@ $texts: #333333;        // Text color
   background: #001c84;
   color: white !important;
   padding: 10px 15px;
+  margin-bottom: 100px;
   border-radius: 5px;
   text-decoration: none;
   font-weight: bold;

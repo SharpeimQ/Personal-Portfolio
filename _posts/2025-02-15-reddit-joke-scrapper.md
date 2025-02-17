@@ -1,5 +1,5 @@
 ---
-date: 2025-02-08 13:24:49
+date: 2025-02-15 13:24:49
 layout: post
 title: Reddit Joke Scraper
 description: A Chrome extension that fetches and displays jokes from Reddit using Vue.js and the Reddit API. Preparatory project for AI Joke Generator.
@@ -43,10 +43,10 @@ This project will introduce me to **Chrome extension development, hosting & depl
     </div>
 </div>
 
-## What's Next?  
-<a href="{{ site.baseurl }}/article-summarizer-extension/" class="next-project-link">
-  Article Summarizer Google Extension! →
-</a>
-
 ## Project Roadmap
 <img src="{{ site.baseurl }}/assets/img/roadmap.png" alt="Project Roadmap" class="roadmap-img">
+
+## What's Next?  
+<a href="{{ site.baseurl }}/article-summarizer/" class="next-project-link">
+  Article Summarizer Google Extension! →
+</a>

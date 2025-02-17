@@ -64,10 +64,35 @@
   }
 }
 
+
+// Hero Animation
 @keyframes hueShift {
   0% { filter: hue-rotate(-40deg); }
   30% { filter: hue-rotate(-170deg); }
   50% { filter: hue-rotate(-100deg); }
   70% { filter: hue-rotate(-60deg); }
   100% { filter: hue-rotate(-40deg); }    
+}
+
+// Post Sidebar Animation
+@keyframes imageHueShift {
+  0% { filter: hue-rotate(0deg); }
+  30% { filter: hue-rotate(180deg); }
+  50% { filter: hue-rotate(360deg); }
+  70% { filter: hue-rotate(180deg); }
+  100% { filter: hue-rotate(0deg); }    
+}
+
+
+// Main posts animation
+@keyframes glowFlicker {
+  0% {
+      filter: saturate(0.5) drop-shadow(0 0 4px rgba(64, 224, 208, 0.7));
+  }
+  50% {
+      filter: saturate(1.2) drop-shadow(0 0 20px rgba(23, 4, 74, 0.9));
+  }
+  100% {
+      filter: saturate(0.5) drop-shadow(0 0 4px rgba(64, 224, 208, 0.7));
+  }
 }
