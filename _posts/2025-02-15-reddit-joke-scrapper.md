@@ -1,7 +1,7 @@
 ---
 date: 2025-02-15 13:24:49
 layout: post
-title: Reddit Joke Scraper
+title: 1. Reddit Joke Scraper
 description: A Chrome extension that fetches and displays jokes from Reddit using Vue.js and the Reddit API. Preparatory project for AI Joke Generator.
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559824021/theme12_e0vxlr.jpg
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559824021/theme12_e0vxlr.jpg

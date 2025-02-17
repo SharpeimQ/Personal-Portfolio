@@ -1,7 +1,7 @@
 ---
 date: 2099-01-01 12:00:00
 layout: post
-title: Article Summarizer
+title: 2. Article Summarizer
 subtitle:
 description: An AI powered Chrome extension designed to help users quickly extract the key points of any article, blog post, or paper.
 category:
