@@ -37,3 +37,7 @@ I’ll continue updating this post as we make progress!
 
 ---
 <img src="{{ site.baseurl }}/assets/img/roadmap.png" alt="Project Roadmap" class="roadmap-img">
+
+## What's Next?  
+<a href="{{ site.baseurl }}/reddit-joke-scrapper/" class="next-project-link">
+  Reddit Joke Scraper Google Extension! →
