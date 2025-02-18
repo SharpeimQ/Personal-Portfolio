@@ -11,7 +11,7 @@ tags:
 author: sharpeimq
 ---
 ---
-## Pet Breed Recommender Passion Project
+## Pet Breed Recommender Capstone Project
 The Dog and Cat Breed Recommender is a simple yet smart web app designed to help users find the perfect dog or cat breed based on their lifestyle, preferences, and pet compatibility. Whether you're looking for a hypoallergenic breed, a high-energy companion, or a pet that thrives in small living spaces, this tool provides tailored recommendations to match your needs.
 
 ### Key Features
@@ -33,6 +33,6 @@ The Dog and Cat Breed Recommender is a simple yet smart web app designed to help
 <img src="{{ site.baseurl }}/assets/img/roadmap.png" alt="Project Roadmap" class="roadmap-img">
 
 ## What's Next?  
-<a href="{{ site.baseurl }}/article-summarizer/" class="next-project-link">
-  Article Summarizer Google Extension! →
+<a href="{{ site.baseurl }}/ai-joke-generator/" class="next-project-link">
+  AI Joke Generator! →
 </a>

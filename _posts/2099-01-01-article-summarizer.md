@@ -29,6 +29,6 @@ An AI powered Chrome extension designed to help users quickly extract the key po
 <img src="{{ site.baseurl }}/assets/img/roadmap.png" alt="Project Roadmap" class="roadmap-img">
 
 ## What's Next?  
-<a href="{{ site.baseurl }}/article-summarizer/" class="next-project-link">
-  Article Summarizer Google Extension! →
+<a href="{{ site.baseurl }}/pet-recommender-app/" class="next-project-link">
+  AdoptiPet! →
 </a>

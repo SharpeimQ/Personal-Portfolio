@@ -3,7 +3,7 @@ date: 2099-01-03 12:00:00
 layout: post
 title: 4. AI Joke Generator
 subtitle:
-description: Optional Capstone Project building off the Reddit Joke Scraper if I Don't Land a Job/Internship Beforehand
+description: Optional Capstone Project expanding on the Reddit Joke Scraper, to be pursued if I haven’t secured a job or internship beforehand.
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559825288/theme17_nlndhx.jpg
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559825288/theme17_nlndhx.jpg
 category: 
@@ -24,6 +24,6 @@ Optional Capstone Project building off the Reddit Joke Scraper if I Don't Land a
 <img src="{{ site.baseurl }}/assets/img/roadmap.png" alt="Project Roadmap" class="roadmap-img">
 
 ## What's Next?  
-<a href="{{ site.baseurl }}/article-summarizer/" class="next-project-link">
-  Article Summarizer Google Extension! →
+<a href="{{ site.baseurl }}/english-to-chinese-translator/" class="next-project-link">
+  English to Chinese Translator! →
 </a>
