@@ -1,7 +1,7 @@
 ---
 date: 2099-01-02 12:00:00
 layout: post
-title: 3. AdoptiPet - Pet Recommender Capstone
+title: AdoptiPet - Pet Recommender Capstone
 subtitle:
 description: A web app designed to help users find and adopt their ideal pet based on their lifestyle, preferences, and pet compatibility.
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559824822/theme15_oqsl4z.jpg

@@ -1,7 +1,7 @@
 ---
 date: 2099-01-04 12:00:00
 layout: post
-title: 5. English to Chinese Translator
+title: English to Chinese Translator
 subtitle:
 description: Optional Capstone Project if I'm Bored
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559824575/theme14_gi2ypv.jpg
