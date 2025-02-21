@@ -28,7 +28,7 @@ formspree_form_id: formspree_form_id
 # Social Media Settings
 # Remove the item if you don't need it
 github_username: SharpeimQ
-instagram_username: shar.peimq
+instagram_username: sharpeims
 linkedin_username: joseph-wang-30b02b261
 
 
@@ -64,7 +64,7 @@ authors:
     photo: "/assets/img/user.jpg"
     github_username: "SharpeimQ"
     twitter_username: "yourtwitter"
-    instagram_username: "shar.peimq"
+    instagram_username: "sharpeims"
     linkedin_username: "joseph-wang-30b02b261"
 
 include:
