@@ -1,6 +1,4 @@
-# Quick Demos of my Favorite Projects
----
-## Personal Portfolio built with Jekflix
+# Personal Portfolio built with Jekflix
 
 **Tech Stack:** Jekyll, Ruby, HTML/CSS/JS
 
